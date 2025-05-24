@@ -1,3 +1,2 @@
-This is LI KUNTAI
-xmum ait student
-welcome！
+ait student year 1
+welcome.
